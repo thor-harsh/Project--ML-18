@@ -10,7 +10,7 @@ In Reinforcement Learning, we use Multi-Armed Bandit Problem to formalize the no
 Bandit problem is used to describe fundamental concepts in reinforcement learning, such as rewards, timesteps, and values.<br></br>
 Upper-Confidence Bound action selection uses uncertainty in the action-value estimates for balancing exploration and exploitation.
 Since there is inherent uncertainty in the accuracy of the action-value estimates when we use a sampled set of rewards thus UCB uses uncertainty in the estimates to drive exploration.<br></br>
-The Upper Confidence Bound follows the principle of optimism in the face of uncertainty which implies that if we are uncertain about an action, we should optimistically assume that it is the correct action.<br></br>
+The Upper Confidence Bound follows the principle of optimism in the face of uncertainty which implies that  if we are uncertain about an action, we should optimistically assume that it is the correct action.<br></br>
 
 
   
